@@ -1,1 +1,6 @@
-dd
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HiThere!&fontAlign=80&fontAlignY=40&color=gradient" />
+</div>
+
+- 🔭 회사에서 개발하는 척 슬랙으로 훅 보기...
+- 💬 소소한 훅 프로젝트...
